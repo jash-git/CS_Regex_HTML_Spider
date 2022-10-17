@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Regex_HTML_Spider", "CS_Regex_HTML_Spider\CS_Regex_HTML_Spider.csproj", "{B0E63BA7-C8F0-460A-B01B-D3F7DE85F737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E63BA7-C8F0-460A-B01B-D3F7DE85F737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E63BA7-C8F0-460A-B01B-D3F7DE85F737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E63BA7-C8F0-460A-B01B-D3F7DE85F737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E63BA7-C8F0-460A-B01B-D3F7DE85F737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0ACECB4-6E80-4476-ADC2-47C26D5310A3}
+	EndGlobalSection
+EndGlobal
